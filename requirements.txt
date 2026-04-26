@@ -1,0 +1,5 @@
+flask==3.0.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+ultralytics==8.2.0      # YOLOv8 — install for production
+torch==2.2.0            # PyTorch backend for YOLO
